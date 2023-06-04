@@ -118,6 +118,14 @@ footer{
 }
 
 
+/* primera actualizacion */
+.greeting{
+  text-align: center;
+}
+/* primera actualizacion */
+
+
+
 @media (max-width: 768px) {
   .column {
     flex: 100%;
